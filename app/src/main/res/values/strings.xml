@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">今日可追</string>
+    <string name="copyright_bing">"@Powered by 必应"</string>
+    <string name="copyright_iciba">"@Powered by 金山词霸"</string>
+    <string name="tab_bing">"必应日图</string>
+    <string name="tab_iciba">金山日词</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
